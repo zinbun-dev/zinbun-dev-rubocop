@@ -243,3 +243,7 @@ Performance/ReverseEach:
 
 Performance/UnfreezeString:
   Enabled: true
+
+Style/AccessModifierIndentation:
+  EnforcedStyle: indent
+  Enabled: true
