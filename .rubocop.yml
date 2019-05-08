@@ -44,13 +44,10 @@ Style/BracesAroundHashParameters:
 Layout/CaseIndentation:
   Enabled: true
 
-CaseIndentation:
-  IndentWhenRelativeTo: 'end'
-  IndentOneStep: false
-
 # Align comments with method definitions.
 Layout/CommentIndentation:
   Enabled: true
+  EnforcedStyle: case
 
 Layout/ElseAlignment:
   Enabled: true
