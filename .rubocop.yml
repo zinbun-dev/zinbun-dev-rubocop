@@ -43,11 +43,11 @@ Style/BracesAroundHashParameters:
 # Align `when` with `case`.
 Layout/CaseIndentation:
   Enabled: true
+  EnforcedStyle: case
 
 # Align comments with method definitions.
 Layout/CommentIndentation:
   Enabled: true
-  EnforcedStyle: case
 
 Layout/ElseAlignment:
   Enabled: true
