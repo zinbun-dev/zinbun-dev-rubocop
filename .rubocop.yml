@@ -87,12 +87,6 @@ Layout/FirstParameterIndentation:
 Style/HashSyntax:
   Enabled: true
 
-# Method definitions after `private` or `protected` isolated calls need one
-# extra level of indentation.
-Layout/IndentationConsistency:
-  Enabled: true
-  EnforcedStyle: rails
-
 # Two spaces, no tabs (for indentation).
 Layout/IndentationWidth:
   Enabled: true
@@ -242,8 +236,4 @@ Performance/ReverseEach:
   Enabled: true
 
 Performance/UnfreezeString:
-  Enabled: true
-
-Style/AccessModifierIndentation:
-  EnforcedStyle: indent
   Enabled: true
