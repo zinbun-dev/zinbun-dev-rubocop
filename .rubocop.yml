@@ -32,6 +32,7 @@ Rails/RefuteMethods:
 
 # Prefer &&/|| over and/or.
 Style/AndOr:
+  EnforcedStyle: conditionals
   Enabled: true
 
 # Do not use braces for hash literals when they are the last argument of a
