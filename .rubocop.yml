@@ -13,6 +13,10 @@ AllCops:
     - 'client/**/*'
     - 'bin/**/*'
     - 'vendor/**/*'
+    - 'public/**/*'
+    - 'storage/**/*'
+    - 'tmp/**/*'
+    - 'vendor/**/*'
     - '**/Gemfile'
     - '**/Gemfile.lock'
     - !ruby/regexp /old_and_unused\.rb$/
